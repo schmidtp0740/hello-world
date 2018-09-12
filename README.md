@@ -1,7 +1,15 @@
 # hello-world
-simple hello world web app in nodejs
+simple hello world web app in nodejs or golang
 
-# To Run
-node app.js
+# To Run the Nodejs Web App
+```
+$ node app.js
+```
 
-Then go to localhost:80
+# To Run the golang web app
+```
+$ go run main.go
+```
+
+# Check the web page!
+Go to localhost:80
